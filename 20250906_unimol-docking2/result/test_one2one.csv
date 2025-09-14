@@ -1,0 +1,5 @@
+input_protein,input_ligand,input_docking_grid,output_ligand_name
+/home/stake/cadd_training/20250906_unimol-docking2/data/receptor_5HG8.pdb,/home/stake/cadd_training/20250906_unimol-docking2/data/input_5HG8.sdf,/home/stake/cadd_training/20250906_unimol-docking2/data/grid_5HG8_as10.json,docked_5HG8
+/home/stake/cadd_training/20250906_unimol-docking2/data/receptor_5HG8.pdb,/home/stake/cadd_training/20250906_unimol-docking2/data/input_5UG8.sdf,/home/stake/cadd_training/20250906_unimol-docking2/data/grid_5HG8_as10.json,docked_5UG8
+/home/stake/cadd_training/20250906_unimol-docking2/data/receptor_5HG8.pdb,/home/stake/cadd_training/20250906_unimol-docking2/data/input_5UG9.sdf,/home/stake/cadd_training/20250906_unimol-docking2/data/grid_5HG8_as10.json,docked_5UG9
+/home/stake/cadd_training/20250906_unimol-docking2/data/receptor_5HG8.pdb,/home/stake/cadd_training/20250906_unimol-docking2/data/input_5UGC.sdf,/home/stake/cadd_training/20250906_unimol-docking2/data/grid_5HG8_as10.json,docked_5UGC
